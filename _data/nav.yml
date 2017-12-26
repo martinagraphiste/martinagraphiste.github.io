@@ -6,16 +6,8 @@
       path: index.html
     - name: Home Personal
       path: index-personal.html
-- name: Pages
+- name: About Us
   path: about.html
-  section_id: pages
-  children:
-    - name: About Us
-      path: about.html
-    - name: Services
-      path: services.html
-    - name: Services 2
-      path: services-2.html
 - name: Works
   path: portfolio.html
   section_id: works
