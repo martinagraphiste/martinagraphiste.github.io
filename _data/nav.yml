@@ -1,11 +1,5 @@
 - name: Home
   path: index.html
-  section_id: home
-  children:
-    - name: Home Studio
-      path: index.html
-    - name: Home Personal
-      path: index-personal.html
 - name: About Us
   path: about.html
 - name: Works
