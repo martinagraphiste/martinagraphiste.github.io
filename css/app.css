@@ -737,6 +737,9 @@ select {
     width: 75%; }
   .large-10 {
     width: 83.3333333333%; }
+  .large-10 h1 {
+    position: relative;
+    bottom: 120px;}
   .large-11 {
     width: 91.6666666667%; }
   .large-12 {
