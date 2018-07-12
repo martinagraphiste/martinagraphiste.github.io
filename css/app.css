@@ -4367,7 +4367,7 @@ meta.foundation-mq-topbar {
           background-color: #61b6d9; }
         .top-bar-section ul li > a.button.info:hover, .top-bar-section ul li > a.button.info:focus {
           color: #FFFFFF; }
-    .top-bar-section ul li > span {
+    .top-bar-section ul li span {
 	color: #ab8860}
     .top-bar-section ul li > button {
       font-size: 0.8125rem;
