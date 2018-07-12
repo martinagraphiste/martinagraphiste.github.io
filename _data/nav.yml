@@ -4,9 +4,9 @@
 - name: About
   path: about.html
   section_id: about
-- name: Works
+- name: Work
   path: portfolio.html
-  section_id: works
+  section_id: work
 - name: Contact
   path: contact.html
   section_id: contact
