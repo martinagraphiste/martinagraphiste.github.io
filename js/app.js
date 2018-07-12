@@ -41,7 +41,7 @@ jQuery(document).ready(function($) {
     $('#slides').superslides({
       animation: 'fade',
       hashchange: false,
-      play: 7000
+      play: 5000
     });
 
     $('#slides').on('animated.slides', function() {
